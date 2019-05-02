@@ -12,8 +12,11 @@ http://tlsflyleaf.onada.fr
 
 ## Utilisation
 
-Cf documentation [pdf][doc],
-et fichiers d'exemples du dépot comme `example-fr.tex`, etc.
+Cf documentation [pdf français][doc] ou [pdf anglais][doc-en],
+et fichiers d'exemples du dépot comme `example-fr.tex` et `example.tex`.
+
+[doc]: https://github.com/mpizenberg/tlsflyleaf/releases/download/v1.11/tlsflyleaf-fr.pdf
+[doc-en]: https://github.com/mpizenberg/tlsflyleaf/releases/download/v1.11/tlsflyleaf.pdf
 
 ## Auteur
 
