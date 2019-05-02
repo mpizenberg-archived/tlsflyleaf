@@ -25,5 +25,7 @@ sous licence LPPL (LaTeX project public license), version 1.3c.
 
 ## Licence
 
-LPPL-1.3c (LaTeX project public license, version 1.3c).
+[LPPL-1.3c][lppl] (LaTeX project public license, version 1.3c).
 C'est une licence open source, sans copyleft.
+
+[lppl]: https://www.latex-project.org/lppl/lppl-1-3c/
